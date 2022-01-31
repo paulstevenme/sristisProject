@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paulstevenme/sristisProject/static/css/main.073c9b0a.css",
+    "main.js": "/paulstevenme/sristisProject/static/js/main.fc0c81dd.js",
+    "static/js/787.9a1d46f4.chunk.js": "/paulstevenme/sristisProject/static/js/787.9a1d46f4.chunk.js",
+    "index.html": "/paulstevenme/sristisProject/index.html",
+    "main.073c9b0a.css.map": "/paulstevenme/sristisProject/static/css/main.073c9b0a.css.map",
+    "main.fc0c81dd.js.map": "/paulstevenme/sristisProject/static/js/main.fc0c81dd.js.map",
+    "787.9a1d46f4.chunk.js.map": "/paulstevenme/sristisProject/static/js/787.9a1d46f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fc0c81dd.js"
+  ]
+}
